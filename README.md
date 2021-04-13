@@ -38,4 +38,4 @@ Este proyecto usa FireBase como base de datos. Esa plantilla de repositorio se e
 
 ## LICENCIA
 
-Licencia publica
+[MIT](https://choosealicense.com/licenses/mit/)
