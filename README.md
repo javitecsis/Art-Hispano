@@ -1,4 +1,4 @@
-<div align = "center">
+<div align = "left">
   <br>
    <h1>  ART-HISPANO </h1>
    <img src ="../
